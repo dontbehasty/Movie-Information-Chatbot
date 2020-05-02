@@ -5,3 +5,6 @@ It was 3 week course delivered by Neueda, developing skills in Python, Data Prep
 <h2>Movie Information Chatbot</h2>
 
 <img src="/Screenshots/Movie Information Chatbot - Presentation 1.png"/>
+<img src="/Screenshots/Movie Information Chatbot - Presentation 2.png"/>
+<img src="/Screenshots/Movie Information Chatbot - Presentation 3.png"/>
+<img src="/Screenshots/Movie Information Chatbot - Presentation 4.png"/>
