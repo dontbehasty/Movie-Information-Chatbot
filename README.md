@@ -1,2 +1,2 @@
 # Movie-Information-Chatbot
-Movie Information Chatbot developed using Amazon Web Services.
+In December 2019 - January 2020 I did training in Artificial Intelligence & Machine Learning Essentials. The course was delivered by Neueda. This was a 3-week course developing skills in Python, Data Preparation, Data and Cloud Platforms, Building and Deploying Chatbots. As part of this course I had to develop a chatbot using the technology and skills learned during training. 
