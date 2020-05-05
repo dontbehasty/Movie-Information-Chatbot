@@ -14,6 +14,6 @@ It was 3 week course delivered by Neueda, developing skills in Python, Data Prep
 <h2> Demo </h2>
 
 <video height=“500" autoplay>
-  <source src="Screenshots/Movie Information Chatbot - Demo.webm” type="video/webm”>
+  <source src="Screenshots/Movie Information Chatbot - Demo.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
