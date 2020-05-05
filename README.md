@@ -13,7 +13,4 @@ It was 3 week course delivered by Neueda, developing skills in Python, Data Prep
 
 <h2> Demo </h2>
 
-<video width="640" height="480">
-  <source src="https://drive.google.com/file/d/1JMEecYGmpeKks1iiAWPYtiEkG2Z0pCaP/preview">
-  Your browser does not support the video tag.
-</video>
+<img src="https://drive.google.com/open?id=1iay2yVVWA4_cidCrOwjbQDb2WxBT9wEY"/>
