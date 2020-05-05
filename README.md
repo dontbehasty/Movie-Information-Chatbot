@@ -13,4 +13,4 @@ It was 3 week course delivered by Neueda, developing skills in Python, Data Prep
 
 <h2> Demo </h2>
 
-<img src="https://www.dropbox.com/s/6bag9comrahzgh9/Movie%20Information%20Chatbot%20-%20Demo.gif?dl=0" height="500"/>
+<img src="https://www.dropbox.com/s/6bag9comrahzgh9/Movie%20Information%20Chatbot%20-%20Demo.gif" height="500"/>
